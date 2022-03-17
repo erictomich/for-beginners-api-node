@@ -1,5 +1,5 @@
 import myWords from './components/myWords.js'
 
-myWords();
+myWords(); 
 
 // ver https://www.linkedin.com/pulse/api-em-nodejs-sem-frameworks-ricardo-torquato/?originalSubdomain=pt
